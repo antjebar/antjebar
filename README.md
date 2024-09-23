@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ☁️ Principal Developer Advocate for AI/ML at AWS
 
-📖 Co-author of the O’Reilly book [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
+📖 Co-author of the O’Reilly book [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391) and [Generative AI on AWS](https://www.amazon.com/Generative-AWS-Context-Aware-Multimodal-Applications/dp/1098159225)
 
-🎓 Coursera and DeepLearning.AI instructor for [Practical Data Science](https://www.coursera.org/specializations/practical-data-science)
+🎓 Coursera and DeepLearning.AI instructor for [Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 
 👩🏼‍💻 Co-founder of the Düsseldorf chapter of [Women in Big Data](https://www.womeninbigdata.org/)
 
